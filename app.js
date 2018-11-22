@@ -4,6 +4,8 @@ const vm = new Vue({
     return {}
   },
   template: `
-    <div></div>
+    <div>
+      <list-item></list-item>
+    </div>
   `
 })
